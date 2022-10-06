@@ -84,6 +84,34 @@ public class SomeTest {
                 new Boolean[]{true, false}
         );
     }
+    
+    @Test
+    void dontGetOutOfPenaltyBox() {
+        Game game = twoPlayerGame();
+        game.roll(1);
+        game.wrongAnswer();
+        game.roll(2);
+        game.wrongAnswer();
+        game.roll(2);
+        game.wasCorrectlyAnswered();
+        game.roll(2);
+        game.wasCorrectlyAnswered();
+        game.roll(2);
+    }
+
+    @Test
+    void getOutOfPenaltyBox() {
+        Game game = twoPlayerGame();
+        game.roll(1);
+        game.wrongAnswer();
+        game.roll(1);
+        game.wrongAnswer();
+        game.roll(1);
+        game.wasCorrectlyAnswered();
+        game.roll(1);
+        game.wasCorrectlyAnswered();
+        game.roll(1);
+    }
 
     private String firstPlayerGame(int roll1, boolean right1, int roll2, boolean right2) {
         game = twoPlayerGame();
