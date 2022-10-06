@@ -138,8 +138,16 @@ public class SomeTest {
     @Test
     void name() {
         Game game = twoPlayerGame();
-        game.roll(1);
-        game.wrongAnswer();
+        for (int i = 0; i < 30; i++) {
+            game.roll(1);
+            game.wrongAnswer();
+            game.roll(1);
+            game.wrongAnswer();
+            game.roll(1);
+            game.wasCorrectlyAnswered();
+            game.roll(1);
+            game.wrongAnswer();
+        }
     }
 
     private Game twoPlayerGame() {
