@@ -149,8 +149,6 @@ public class SomeTest {
     }
 
     private static class TestPrinter implements Printer {
-
-
         private final List<String> messages = new ArrayList<>();
 
         @Override

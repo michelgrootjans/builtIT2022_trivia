@@ -1,0 +1,4536 @@
+[1, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 5
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[1, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[1, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[1, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[1, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[1, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[1, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 6
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[2, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[2, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[2, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[2, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[2, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[2, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[2, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[2, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 7
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[3, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[3, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[3, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[3, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[3, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[3, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[3, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[3, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 8
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[4, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[4, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[4, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[4, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[4, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 9
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[4, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[4, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[4, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 9
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[5, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[5, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 6
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[5, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[5, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[5, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[5, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 10
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[5, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[5, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 10
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart's new location is 10
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, true, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 0
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[6, true, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 0
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[6, false, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart is getting out of the penalty box
+Bart's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 2, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box 
+[6, false, 2, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 2
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 3, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 9
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[6, false, 3, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 3
+Bart is getting out of the penalty box
+Bart's new location is 9
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 4, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box 
+[6, false, 4, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 4
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 5, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+Bart now has 1 Gold Coins. 
+[6, false, 5, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 5
+Bart is getting out of the penalty box
+Bart's new location is 11
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[6, false, 6, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box 
+[6, false, 6, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Bart was sent to the penalty box
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 6
+Bart is not getting out of the penalty box
+Question was incorrectly answered
+Bart was sent to the penalty box 

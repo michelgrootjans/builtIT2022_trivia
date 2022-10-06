@@ -1,0 +1,238 @@
+[1, true, 1, true] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins. 
+[1, true, 1, false] => Christian was added
+They are player number 1
+Bart was added
+They are player number 2
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Bart now has 1 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Christian now has 2 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+Bart now has 2 Gold Coins.
+Christian was added
+They are player number 3
+Bart was added
+They are player number 4
+Christian is the current player
+They have rolled a 1
+Christian's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Christian now has 3 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 3
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Bart now has 3 Gold Coins.
+Christian is the current player
+They have rolled a 1
+Christian's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+Christian now has 1 Gold Coins.
+Bart is the current player
+They have rolled a 1
+Bart's new location is 1
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Bart was sent to the penalty box 
+[1, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6 
+[1, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 6 
+[1, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 6 
+[1, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 9 out of bounds for length 6 
+[1, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 6 
+[1, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 11 out of bounds for length 6 
+[1, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 12 out of bounds for length 6 
+[1, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 13 out of bounds for length 6 
+[1, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 14 out of bounds for length 6 
+[1, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for length 6 
+[1, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 16 out of bounds for length 6 
+[1, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 17 out of bounds for length 6 
+[1, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 18 out of bounds for length 6 
+[1, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 19 out of bounds for length 6 
+[1, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 20 out of bounds for length 6 
+[1, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 21 out of bounds for length 6 
+[1, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 22 out of bounds for length 6 
+[1, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 23 out of bounds for length 6 
+[1, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 24 out of bounds for length 6 
+[1, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 25 out of bounds for length 6 
+[1, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 26 out of bounds for length 6 
+[1, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 27 out of bounds for length 6 
+[2, true, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 28 out of bounds for length 6 
+[2, true, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 29 out of bounds for length 6 
+[2, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 30 out of bounds for length 6 
+[2, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 31 out of bounds for length 6 
+[2, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 32 out of bounds for length 6 
+[2, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 33 out of bounds for length 6 
+[2, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 34 out of bounds for length 6 
+[2, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 35 out of bounds for length 6 
+[2, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 36 out of bounds for length 6 
+[2, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 37 out of bounds for length 6 
+[2, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 38 out of bounds for length 6 
+[2, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 39 out of bounds for length 6 
+[2, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 40 out of bounds for length 6 
+[2, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 41 out of bounds for length 6 
+[2, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 42 out of bounds for length 6 
+[2, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 43 out of bounds for length 6 
+[2, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 44 out of bounds for length 6 
+[2, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 45 out of bounds for length 6 
+[2, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 46 out of bounds for length 6 
+[2, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 47 out of bounds for length 6 
+[2, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 48 out of bounds for length 6 
+[2, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 49 out of bounds for length 6 
+[2, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 50 out of bounds for length 6 
+[2, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 51 out of bounds for length 6 
+[3, true, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 52 out of bounds for length 6 
+[3, true, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 53 out of bounds for length 6 
+[3, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 54 out of bounds for length 6 
+[3, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 55 out of bounds for length 6 
+[3, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 56 out of bounds for length 6 
+[3, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 57 out of bounds for length 6 
+[3, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 58 out of bounds for length 6 
+[3, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 59 out of bounds for length 6 
+[3, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 60 out of bounds for length 6 
+[3, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 61 out of bounds for length 6 
+[3, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 62 out of bounds for length 6 
+[3, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 63 out of bounds for length 6 
+[3, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 64 out of bounds for length 6 
+[3, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 65 out of bounds for length 6 
+[3, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 66 out of bounds for length 6 
+[3, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 67 out of bounds for length 6 
+[3, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 68 out of bounds for length 6 
+[3, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 69 out of bounds for length 6 
+[3, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 70 out of bounds for length 6 
+[3, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 71 out of bounds for length 6 
+[3, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 72 out of bounds for length 6 
+[3, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 73 out of bounds for length 6 
+[3, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 74 out of bounds for length 6 
+[3, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 75 out of bounds for length 6 
+[4, true, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 76 out of bounds for length 6 
+[4, true, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 77 out of bounds for length 6 
+[4, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 78 out of bounds for length 6 
+[4, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 79 out of bounds for length 6 
+[4, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 80 out of bounds for length 6 
+[4, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 81 out of bounds for length 6 
+[4, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 82 out of bounds for length 6 
+[4, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 83 out of bounds for length 6 
+[4, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 84 out of bounds for length 6 
+[4, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 85 out of bounds for length 6 
+[4, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 86 out of bounds for length 6 
+[4, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 87 out of bounds for length 6 
+[4, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 88 out of bounds for length 6 
+[4, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 89 out of bounds for length 6 
+[4, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 90 out of bounds for length 6 
+[4, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 91 out of bounds for length 6 
+[4, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 92 out of bounds for length 6 
+[4, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 93 out of bounds for length 6 
+[4, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 94 out of bounds for length 6 
+[4, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 95 out of bounds for length 6 
+[4, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 96 out of bounds for length 6 
+[4, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 97 out of bounds for length 6 
+[4, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 98 out of bounds for length 6 
+[4, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 99 out of bounds for length 6 
+[5, true, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 100 out of bounds for length 6 
+[5, true, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 101 out of bounds for length 6 
+[5, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 102 out of bounds for length 6 
+[5, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 103 out of bounds for length 6 
+[5, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 104 out of bounds for length 6 
+[5, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 105 out of bounds for length 6 
+[5, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 106 out of bounds for length 6 
+[5, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 107 out of bounds for length 6 
+[5, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 108 out of bounds for length 6 
+[5, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 109 out of bounds for length 6 
+[5, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 110 out of bounds for length 6 
+[5, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 111 out of bounds for length 6 
+[5, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 112 out of bounds for length 6 
+[5, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 113 out of bounds for length 6 
+[5, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 114 out of bounds for length 6 
+[5, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 115 out of bounds for length 6 
+[5, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 116 out of bounds for length 6 
+[5, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 117 out of bounds for length 6 
+[5, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 118 out of bounds for length 6 
+[5, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 119 out of bounds for length 6 
+[5, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 120 out of bounds for length 6 
+[5, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 121 out of bounds for length 6 
+[5, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 122 out of bounds for length 6 
+[5, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 123 out of bounds for length 6 
+[6, true, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 124 out of bounds for length 6 
+[6, true, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 125 out of bounds for length 6 
+[6, true, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 126 out of bounds for length 6 
+[6, true, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 127 out of bounds for length 6 
+[6, true, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 128 out of bounds for length 6 
+[6, true, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 129 out of bounds for length 6 
+[6, true, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 130 out of bounds for length 6 
+[6, true, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 131 out of bounds for length 6 
+[6, true, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 132 out of bounds for length 6 
+[6, true, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 133 out of bounds for length 6 
+[6, true, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 134 out of bounds for length 6 
+[6, true, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 135 out of bounds for length 6 
+[6, false, 1, true] => java.lang.ArrayIndexOutOfBoundsException: Index 136 out of bounds for length 6 
+[6, false, 1, false] => java.lang.ArrayIndexOutOfBoundsException: Index 137 out of bounds for length 6 
+[6, false, 2, true] => java.lang.ArrayIndexOutOfBoundsException: Index 138 out of bounds for length 6 
+[6, false, 2, false] => java.lang.ArrayIndexOutOfBoundsException: Index 139 out of bounds for length 6 
+[6, false, 3, true] => java.lang.ArrayIndexOutOfBoundsException: Index 140 out of bounds for length 6 
+[6, false, 3, false] => java.lang.ArrayIndexOutOfBoundsException: Index 141 out of bounds for length 6 
+[6, false, 4, true] => java.lang.ArrayIndexOutOfBoundsException: Index 142 out of bounds for length 6 
+[6, false, 4, false] => java.lang.ArrayIndexOutOfBoundsException: Index 143 out of bounds for length 6 
+[6, false, 5, true] => java.lang.ArrayIndexOutOfBoundsException: Index 144 out of bounds for length 6 
+[6, false, 5, false] => java.lang.ArrayIndexOutOfBoundsException: Index 145 out of bounds for length 6 
+[6, false, 6, true] => java.lang.ArrayIndexOutOfBoundsException: Index 146 out of bounds for length 6 
+[6, false, 6, false] => java.lang.ArrayIndexOutOfBoundsException: Index 147 out of bounds for length 6 
